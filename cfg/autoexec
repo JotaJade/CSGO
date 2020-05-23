@@ -1,0 +1,476 @@
+	clear
+echo 
+echo ..@@@@@...@@@...@@@@@....@.....@@@@@....@....@@@@...@@@@@..
+echo ......@..@...@....@.....@.@........@...@.@...@...@..@......
+echo ..@...@..@...@....@....@...@...@...@..@...@..@...@..@@@@...
+echo ..@...@..@...@....@....@@@@@...@...@..@@@@@..@...@..@......
+echo ...@@@....@@@.....@....@...@....@@@...@...@..@@@@...@@@@@..
+echo 
+echo v2.0
+echo 
+echo Created/Edited by: JotaJade
+echo 
+echo ",;,,,;,;,;,;,;,;,;;;;L                ...:,;;L;L;FyjjEhK5hKOO8S8SESpObb8OBOpb88bbpO8bb8BbQBQBQQgQQBQBQBQBQbbGpOGnzLrL;,  ,,:.... ..:L;;,;;;;,;;;;;,;;;,;,;,;,;,;"
+echo ";;;;;;;;;;;;;;;;;;;;L;      .         :;;;rzyyZFFZGOpG8OQ8Bbb8QBB8bBQBgg8OBbBOBBQBQQgggggg@g@g@g@@@@@@@@@@@g@ggQb5yL;;;:. .         ,zc;;;L;;;;;;;;;;;;;;;;;;;;;"
+echo ",;,;,;,;,;,;,;;;,;,;;,     .   . .   ,;;;cLFzjFzyh3hKShS5OGES88bpGEOhGGGnGhEEOE8bQQQBQBQQgQgQgQQQgQQBQQgQgQQQQBQbOyL:: .,:.  ,;;;;   ;:;;;;;;;,;,;;;;;;;,;,;,;,;"
+echo ";;;,;,;,;,;,;,;,;,;;L,      . ..,:::,,;;L;rLLF7cyZE5SSGoE5GE8pbbBSGEOpGhOp85O8BBgQgQgggQgQgggQgQgQQQgQQQgQQQQQQQQQBKr;:   .;cz5ShSL ...;L,;;;;;;;,;;;;;;;,;,;,;;"
+echo ":;,;,;,;,;;;,;,;,;,;;;       ....,;;,;;;;LLrrzrzLyyZK55OE5hp8bBQpG5hOOhGE8bBbQQQBQQgQgQgggggggQgQgQQQgQgQQQgQQQQBgQQpn;;.  .,.:rF7y,   .;;;;;;;;;;;;;;;;;;,;,;,;"
+echo ";;;,;,;,;,;,;,;;;;;;;;.   . .   ..,;;,;,;;LLz;7zcznZhoOGOE8bBbQQBEEKOGOE88QQBBBbQBgQgggQgggQgQgQgQgQgQgggBQQQBQBQBQQgB5LL;;.. . :;;;c;L;;:;;;;;,;;;;;;;;;,;,;,;;"
+echo ",;,;,;,;,;,;,;;;;;,;;L.    .   ..,,;,;,;;;;;;L;cLjnhK558OGEBbBQQQbGpEOO8pbQQOBbQQgggggg@ggQgQgBQQggggQQgQQBQQQQQBQBQQgQby,,7  .   ;z8@g@h.:;;;;;,;;;;;,;,;;;,;,;"
+echo ",;;,;,;,;,;,;,;,;;;;;;;   .   ..::;;;,;,;;;;;,;;rzZKEhEObG8pbbQQgb8ObOGpBbQb8pbpQQgg@ggggQQ8BBB8QQQQQBQQgQQQQBQQQQQQg@@gO  :      3j;;LE@7.,;;;;;;;;;,;;;;;,;;;;"
+echo ",;,;,;,;,;,;;;;;;;;;;;L,   .   ..,,;;;;;;;;L;;;;;zzZoS5O8b8bEbbQgQGpOB8SOOS5j5nh5ych53SpGOGESOSEoOOO5O8BbQBQQgQgg@@@gS::;K8G,,;L,nQQoy. Sg:,,;;;,;;;;;;;,;,;,;,;"
+echo ";;;,;,;,;,;,;;;,;,;;;;;;       .,:,,;,;;;;;;L;LLLLyoESOOp8bO8bbBg83SpGB5ncr;;;;;L:,;,,;,,,;rnnpphnKKS5OOpQgQgg@@@b7   ;p@BQbKLjQbQgQb8Z.c@L:;;;;;;;;;,;,;,;,;;;;"
+echo ",;,;,;,;,;;;,;,;;;;;;;;L,      ..,:,,;,;;;;;;LLrLzcyZhGOEp5hpb8QBOcKEOE5;LLL;L,,;;,:.,:,:;,;;;ro8gQgBQQQQgg@gQZ.   rb@ggQBOQbObQggQgBBO;,@F:;;;;;;,;;;;;;;;;,;,;"
+echo ",;;,;,;,;,;;;,;,;;;,;;;;r:      ::,.,:,,L;L;L;;;;,;;;;;;j3oy3KOGBn;yOO8pSz7LFryjL;zKGE88BBgg@@@B8EB@@BQg@QG;   .ng@@@QQBB8pBQBg@@ggggB8;L@c.;;;;;,;;;;;,;,;;;,;;"
+echo ":;,;,;,;,;,;,;;;;;;;;;;;;L.    ..:::.::,;;,;;;,:....   .:,;;;Ljhn;,yhBQ@ggbGzZ3Lnb88OpG88BBQggg@gg3yKppF.   ,8@@g@gQBQbB88ObQgoy8BBQBQBzOb.,,;,;;;;;;;,;,;;;;;,;"
+echo ";;;,;,;,;,;;;,;,;;;;;;;;;;L     .:::,:. ....,.. ..,:,,;,:...;;c;:,LzSb@@@g@bp7.jSKSKF;. .  ;. ,,;;yc;oE.:Lb@@@@QQBQBQbBbb888QE .zSb8BQgGgL.,;;;;;;;,;;;;;;;,;,;;"
+echo ",;,;,;,;,;,;;;;;;;;;;;;;;LL.     :,,,,.      .,LFhOb8BQQO8h3z7;;..,L,;;;FOphByhy,;:. .;;.  ;:;FZEbBQ8QBQQ@ggQQQgBBbQBQBb8B88bbz:;noOOBgQQ,.;,;;;;;,;;;;;;;,;;;,;"
+echo ",;;,;,;,;,;,;,;;;;;;;;;;;,,:.     .:,;,.....;LFjKZ5SShjLF7zrL;. c.  ,r7KBB8LLr8S7;;;;LcLcrjSQg@@@gQ8bpbbbQgQgQQQQBbbBBBbBbB88Q@bz;LyohQQQ::,;;;;;;;,;;;;;;;,;;;;"
+echo ":;,;,;,;,;,;,;,;,;;;;;;;;: ......    :::.. ;,;;;::..   y.:       . .ZbE8Q@@g.,y38BhjyyFZZES8p8pB8bbQbbQQQQQQQQQQBQbbbQBQbBbbO8g@g5L7ZOQgQ;.;,;;;;;;;;;,;;;,;,;,;"
+echo ",;;,;,;,;,;,;,;,;,;,;;;;L.    . . :.      :,          .zLcr;;;:... :yKEbQQ@@B.p5,3bOOSGhOOOSOGppbQgBBQgQQQQBQQQQQbb8BQQBBbBbbhBg8c;zObgBg,,,;,;,;,;,;;;;;;;;;,;;"
+echo ",;,;,;,;,;,;;;,;;;;;;;;;;;      ...,::..  ,c   ..,,;;zyn3oZnc;.... ,;ypbQQg@gg;Go3ZohOEO5OOO8b8ObQBBQQBQQQQQQQBQBB8bpQBQQQBBb8SShppQQQpgS.:;;;;;;;;;,;;;,;,;,;,;"
+echo ",;,,;,;,;,;,;;;,;;;;;;;;;;;.    ...:::,,;:.K;.,,;Lz7yyyzyrrLL;;....;;jbBgggg@@@8ggbhEhhK5ZEGOSKySGb8bbBbQQgQgQQQQbQBBpQQQQQBB8phbQgQQpB@z.,;;,;;;;;,;,;,;;;,;,;;"
+echo ",;,;,;,;,;,;,;,;,;;;;;;;;;;r;.   ....:,;;;:;OF.:,;;LrrLr;L;L;;::::;;;GBgggggggg@@@ggbbOOEEhhoh5OObbBBQQQQQQgQQQQQQQQBBBQQQBB8BpOQgBQbQg8c;,;;;;;;;;;;;,;,;;;,;,;"
+echo ",;,,;,;,;,;,;;;;;;;;;;;;;;;;LL;.......:,;;r;;hG7L;L;rLLLc;r;;,,,;;;,;nbQgggQgggg@g@QQ8B88p8O8OBbbbBBQQgggQgQQQQQQBQQQbQbQQQbQbBEbQQQQQ8;,;;;;;;;;;;;;,;;;,;;;,;;"
+echo ",;,,,;,;,;,;,;,;;;,;;;;;;;;;;;;r:  ...:;,;;;;;75hKFyzyFzLc;;;L;L;;;;;yGbQgQgQgQgggQQOo3ESSG8O8pb8QBQBgQgQgQgBQBQBQBQBbBQBQQQbBBbOQbbbgn .;;;;;;;;;;;;;;;,;;;,;,;"
+echo ",;;,;,;,;,;,;,;,;,;;;;;;;;;;;;;;L.. ..::;:;;L;L;LcjyZyZFyzFzzL;,,;;,rjEpQQgQQBgQQBBBQ5r;;LFnK5OOb8bbQBQQgggQQBQBQQQQQbBBQbQQQBB8p8BbQ@O .;;;;;;;;;;;;;;,;;;,;,;;"
+echo ",;,;,;,;,;,;,;,;,;,;;;;;;;;;;;;;;;...:.::;,;;LLyZShGGESEKKjz;,..:;;;;ZSbQgQQQQQQ8bbQQQn;,::;;7ySEppbbBQgQQBQQQbQQQQQQQbBQQBQBQbBObg@@@.::;;;;;;;;;;;;;,;;;;;,;,;"
+echo ";;,,;,;,;,;,;,;,;,;,;,;;;;;;;;;;;;,...:.::;,;;zF535oEo5jycL,.  :;,;,;yppQQgQgQQQQQgggQ8GGy;::,;roS8p88QQQQQBBBQ8QQQBQQQ8QQQBQBB8bObEc  ;;;;;;;;;;,;;;,;,;,;,;,;;"
+echo ",;,;,;,;,;,;,;,;,;,;,;;;;;;;;;;;;;;,.:...::;;L7zj5K5K5ZyrL,.   L;;;;;ch8bQggQgQgggQbObBQBbEj;;:;;ynEE88BBQBQBQQBBQQQBQbQBQBQBBbB8B;    :,LLL;;;;;;,;;;;;,;,;,;,;"
+echo ",,;,,,;,;,;,;,;,;,;,;;;;;;;;;;;;;;L;..:...::;;z7jZ5noK5Zz;;.  :;;;;;zFS8BQgg@QgBbOEnOQgQgBBpOycLL;c7yKGO88BbQBQBQBQQQQQBQBQbQBQbbbO,    ..::,;L;L;;;;;;,;,;,;,;,"
+echo ",;,;,,,;,;,;,;,;,;;;,;,;,;;;;;;;;;;;.......,,LLz7Z333oKEnz;;:;,,:::;LKSp8QggggBbQQQQbQQgQQ8b8b53nc7KK3opOBBQBQBQbBBQBQBQQQBQbQbB8bpby          ..;;;;;;;,;,;,;,;"
+echo ";,,,;,;,;,;,;,;,;,;,;,;,;;;;;;;;;;;;: :.,.::;;LLyy5ZKKh5oFF;;;;;;.. .;ynhObBBZ3SOpBbQQQQQbB8bBQ8QE3KO88ObBQQQBQB8BQQgBQQQbBbBBB8b8pOQO.           .,L;;;;,;,;,,;"
+echo ",;,,,,,;,;,;,;,;,;,;,;;;,;,;;;,;;;;L, ..::..:;;rFZZo3ESh3ncrLL;;;;.....,;znhz;zny5O8bQQQBQQQBQQgB8ozy55nhQBQBQBQbBBQQQBQBBb88b8b8bpEOB8.            .;;;,;,;,;,;"
+echo ";,,:,,,,;,;,;,;,;,;,;,;,;;;,;;;;;;;;L...::...:;;cLjZ5oSo53F;;;;,;,;;;;LLyyh5SS5nEOBbgg@@@@@@@Q8Sy7y7y;;LSBQbQBQQQbQBQQQBB8bpB8Bbb88SEGbb;            .;;;,;,;,;;"
+echo ",;,,,;,;,;,;,;,;,;,;,;,;;;;;;;;;,;;;;; ..:....,;;zjSo5KoZ5jL;;;;;;;L;zFE8BQQBQBb88p8OGo3jz;;;73EKno8EF;38QQQBQQQQB8BBQbQbb8bbb8b8bpEKGObBL          ...;;;,;,;,;"
+echo ",,,,;,,,;,,,;,;,;,;,;,;;;;;,;,;;;,;;;;. ..:...,,;rno3j3ZKjzL;;;;;;r7jn35G5Oh5KKjZL; ,...::LhQggggbbO5y5GBBQQQQQBQBQbQBB8b8b8B8B8bpbSEGOGbQ;         ....,;;;;,,,"
+echo ":;,,,;,,,;,;,;,;,;,;,;,;;;;;;;;;;;;;;L,........,;FFLLnjjynFL,,,;;L;;;;::   ..  ,LjnKGBQgg@@@gQQQQQBbhoEbBQBQBQBBBQBQBB8bpb888bbb888S58EpO8pL.      ......:,;;;,;"
+echo ",,,,,,,,,,,,;,;,;,;,;,;,;,;,;;;;;;;;;;L. ...:...;zS;LnonK3KL;:.         .:;cjcFZpbQg@ggggQgQQbQQQQQbbG88BBQBQBBbQbBbB8bO8pb8BbB888boSpOOpO8cL:    ....: ....,;;;"
+echo ":;,,:,:,:,,;,;,;,;,;,;,;,;,;,;;;,;;;;;;;. ...,. :7nZzohpGOE5y;,;::...:;y5pO888O88BBQQQQQBQQQbQbQQQQQBB8B8bpB8BBB8Q8b8bOp8b8BbBbbO8Ohh8O8ObEz;;     ..,:. ......,"
+echo ",,;:,:,,;,,,;,;,;,;,;,;,;,;,;,;;;;;;;;;;; ...:;. :LjyrSObpGhSzL;L;;;,.,;FjooEhOE5KEG8bQBQQQQQBBQQQgQQBQbb8b88bQ888Bp8O88bpb8b88O88OnGE8EOOEL;:    ..:::.. ......"
+echo ":;,;:,:,,,,,,,,;,;,;,;,;,;,;,;;;,;,;;;;;;,  ..:;. .Lz77SpbpOZF7c;L;,...:,LcnzLLKn3n5OBBQBQQgBQBBbQQgQQBQ8b8QbBBB8b8bO888pb8b88pb8853EOOOGOK;..   .....::........"
+echo "::,:,:,:,:,,,,,,,,,,;,,,;,;;;,;,;;;,;;;;;;:   .,;. .;;LyhhphS7Lr7LL;;,,:;;jK5zyKOEGS88bBQBBbb8BbQBQBQQQQQbbbb8bbbp8p8O8Ob8bpb88ObGSKEGpSpSj.    ................"
+echo ":;:,:,:,:,:;,;,;,;,;,;,;,;,;,;,;,;,;,;;;;;L.   .:;.  ,;7y35Go5;Lc7L7;L;Lco5Go53EEShOG88bO8OppbbQbBQQBQQQbBbB8B8b888b88Ob8B8b8pp8GpSS5pGOGS;.     ..............."
+echo ",:,:,:,:,:,,;,,,,,;,;,;,;,;,;,;,;,;;;;;,;;;;.   ..,.. .,LLFzyyF;rLrcyzyz3nKojFF7yjKoEObGESpO88QBQQQBQQQBBbBbBbb88Ob8b8b8B88pbObGOOGEOOGoOy.     ................"
+echo ":,:::,:,:,:,:,:,,,,,,;,;,;,;,;,;,;,;;;,;,;,;;. .   ... .:::;;L;rcz;nZ33on7;;;LLnKSSpG8p88b8BbQBQQQBQBQBB8bpb8b88Ob8b8bbBpb8b88G888GOGOEG3;     ................."
+echo ":::.,:,:,:,:,:,:,,,,;,;,;,;,;,;,;,;,;,;;;,;;L;. .   ........:,;;rLcz3h5rL;;;Fzo5OS8Ep8bpBBBBQBQBQBBbB8b8b8bpbO88b8B8b8b8bOb88O8O8pGG8SG3L     ....:............."
+echo ":,.::::::,:,:,:,:,:;,,,;,;,,,;,;,;,;,;;;,;,;;;;. . . ..... . .:;;L;LLycL;LLynSSOEEhO8B8bbQBQBQQQBQ8bppO88b8b8b8B88pb88pBpbO8O8p8O8E8hE57.     .................."
+echo ":::.,:,:,:,:,:,:,:,:,,,,;,;,;,;,;,;,;,;,;,;,;;;;. ... . ..... ..,,;;;;cL;;7nhZOEEEpO8bB8BbQQQQQbQb8EpO88bO8p88B8b88p8p8pbpbpbp8O8O8OpEj.    . . ......... ......"
+echo ".,.:.::,.,:::::,:,:,:,:,,;,;,;,,,;,;,;,;,;,;,;;c;  ... . ....  ..,,;;;;L;LLyjoEOhSOpObOb8BbQbBbbpphGO8pB8b8pb8bbp8O8O8O8p888p8Opp8ObOo.    . . ........... ....."
+echo ":::.,.::::::::,:,:,:,:,:,,,,,,;,;,;,,,;,;,;,;;LL   .. ... . ...  .::;,;;L;LLzyOK5oGSOGOpb8bO8GOGh5OObO8p888p8O8O8O8O8OpO8O8OOOOG8O8OZ:    . ....... ....... ... "
+echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;,;;yooKGhGEOG8O8ppppSGOQBQQQBQBQBQbBbBbBBBbQbQBQBBbQBBbbGy.    ................... ..."
+
+// Thank you to BananaGaming and PinkFreud for helping me build this config file.
+
+//---Content
+
+	// 1. General Settings
+	// 2. Game Settings
+	// 3. Visual Settings
+	// 4. Bindings
+	// 5. Scripts
+	// 6. Aliases
+
+
+
+////////////////////////// 1. General Settings //////////////////////////
+
+
+	// Network
+
+		sv_maxrate 							"0" 
+		sv_minrate 							"30000"
+		sv_mincmdrate 						"128"
+		sv_minupdaterate 					"128"
+		sv_maxupdaterate					"128"
+		rate 								"128000" 		//Max bytes per second the host can receive data
+		cl_cmdrate 							"128" 			//Max number of command packets sent to server per second
+		cl_updaterate 						"128" 			//Number of packets per second you are requesting from the server
+		cl_interp_ratio 					"2" 			//Sets the interpolation amount (final amount is cl_interp_ratio / cl_updaterate)
+		cl_interp 							"0"				//Sets the interpolation amount
+		cl_lagcompensation 					"1"				//Lag compensation helps by eliminating combat latency from client side view
+		cl_predict 							"1"				//Skip waiting for server feedback and simulate client side movement in real-time
+		cl_predictweapons 					"1" 			//Skip waiting for server feedback and perform client side prediction of weapon effects
+		mm_dedicated_search_maxping 		"80"			//Max ping allowed when searching for a game server
+
+
+	// Menus & Interface
+
+		con_enable 							"1"				//Enables or disables console	
+		fps_max 							"0"				//Sets the FPS cap ("0" for no cap)
+		fps_max_menu 						"9999"			//Sets the FPS cap for the menu
+		cl_showfps 							"0"				//Shows FPS
+		net_graph 							"0"				//Enables or disables net_graph
+		net_graphpos 						"2"				//Sets the net_graph position
+		cl_showpos 							"0"				//Shows position related values
+		cl_color 							"3"				//Sets the minimap player dot color ("0" = yellow, "1" = purple, "2" = green, "3" = blue, "4" = orange)
+		snd_mixahead 						"0.05"			//Makes sound as instant as it can get, making it easier to hear small things
+		cl_showhelp 						"0" 			//Removes on-screen help
+		cl_autohelp 						"0" 			//Removes automatic help
+		cl_disablehtmlmotd 					"1"  			//Disables community server ads
+
+
+	// Audio
+
+		voice_enable						"1"				//Enables or disables voice chat
+		snd_mute_losefocus 					"0"				//Game mutes if minimized ("0" to disable it)
+		lobby_voice_chat_enabled 			"0"				//Turns microphone off in lobby, really useful
+
+
+
+////////////////////////// 2. Game Settings //////////////////////////
+
+
+	// Game
+
+		r_drawtracers_firstperson 			"1"
+		cl_hud_background_alpha 			"1"
+		cl_autowepswitch 					"0"
+		cl_use_opens_buy_menu 				"0"
+
+	// Mouse
+
+		m_rawinput 							"1"
+		sensitivity         				"1"
+		zoom_sensitivity_ratio_mouse 		"1"
+		m_mouseaccel2 						"0"
+		m_mouseaccel1 						"0"
+		m_customaccel 						"0"
+
+
+
+////////////////////////// 3. Visual Settings //////////////////////////
+
+
+	// Hud
+
+		safezonex                           "1"				//Horizontal hud offset
+		safezoney                           "1"				//Vertical hud offset
+		hud_scaling                         "0.85"			//Hud scale
+		+cl_show_team_equipment								//Shows teammates' equipment
+		cl_teamid_overhead_mode 			"2"				//Always show team behind walls with equipment
+		cl_teamid_overhead_always 			"1"				//Shows teammates' equipment overhead
+		cl_hud_bomb_under_radar             "1"				//Bomb icon shows under the radar if you're carrying it
+		hud_showtargetid 					"1" 			//Enables display of target names
+		cl_hud_playercount_showcount 		"1"				//Shows player avatars instead of numbers left
+		cl_showloadout 						"0"				//Always shows loadout ("0" to fade it out)
+
+
+	// Radar
+
+		cl_radar_scale      				"0.4" 			//Radar zoom scale
+		cl_hud_radar_scale 					"1.2"			//Radar size
+		cl_radar_icon_scale_min 			"0.4" 			//Player size in radar (min="0.4", default="0.6", max="1")
+		cl_radar_always_centered  			"0"				//Centers radar ("0" to disable it)
+		cl_teammate_colors_show 			"0"				//Show teammates as separate colors without letter ("0" for letter)
+
+
+	// Viewmodel
+
+		viewmodel_fov 						"68"
+		viewmodel_offset_z 					"-2"
+		viewmodel_offset_y 					"2"
+		viewmodel_offset_x 					"1"
+
+
+	// Crosshair
+
+		cl_crosshair_drawoutline 					"1"
+		cl_crosshair_dynamic_maxdist_splitratio 	"0"
+		cl_crosshair_dynamic_splitalpha_innermod 	"1"
+		cl_crosshair_dynamic_splitalpha_outermod 	"0.300000"
+		cl_crosshair_dynamic_splitdist 				"5"
+		cl_crosshair_outlinethickness 				"1"
+		cl_crosshair_sniper_width 					"2"
+		cl_crosshairalpha 							"255"
+		cl_crosshaircolor 							"5"
+		cl_crosshaircolor_b 						"255"
+		cl_crosshaircolor_g 						"255"
+		cl_crosshaircolor_r 						"255"
+		cl_crosshairdot 							"0"
+		cl_crosshairgap 							"-1"
+		cl_crosshairgap_useweaponvalue 				"0"
+		cl_crosshairscale 							"0"
+		cl_crosshairsize 							"2.2"
+		cl_crosshairstyle 							"4"
+		cl_crosshairthickness 						"0.6"
+		cl_crosshairusealpha 						"1"
+		cl_fixedcrosshairgap 						"-10"
+
+
+
+////////////////////////// 4. Bindings //////////////////////////
+
+
+	// Buying
+
+		echo "+=====================================================+"
+		echo "|     NUM     |      /      |      *      |     -     |"
+		echo "|     PAD     |    DECOY    |  FLASHBANG  |   SMOKE   |"
+		echo "|-------------|-------------|-------------|-----------|"
+		echo "|      7      |      8      |      9      |     +     |"
+		echo "|     P250    |  500 PISTOL |     HE      |           |"
+		echo "|-------------|-------------|-------------|  MOLOTOV  |"
+		echo "|      4      |      5      |      6      |           |"
+		echo "|     UMP     | CHEAP RIFLE | SCOPED RIFLE|           |"
+		echo "|-------------|-------------|-------------|-----------|"
+		echo "|      1      |      2      |      3      |   ENTER   |"
+		echo "|     P90     |    RIFLE    |     AWP     |           |"
+		echo "|-------------|-------------|-------------|  DEFUSE   |"
+		echo "|             0             |      .      |    KIT    |"
+		echo "|      KEVLAR + HELMET      |   KEVLAR    |           |"
+		echo "+=====================================================+"
+
+		bind "kp_ins" "buy vesthelm;"
+		bind "kp_del" "buy vest;"
+		bind "kp_end" "buy p90;"
+		bind "kp_leftarrow" "buy ump45;"
+		bind "kp_downarrow" "buy ak47; buy m4a1;"
+		bind "kp_5" "buy galilar; buy famas;"
+		bind "kp_pgdn" "buy awp;"
+		bind "kp_rightarrow" "buy sg556; buy aug;"
+		bind "kp_home" "buy p250;"
+		bind "kp_uparrow" "buy tec9; buy fiveseven;"
+		bind "kp_minus" "buy smokegrenade;"
+		bind "kp_multiply" "buy flashbang;"
+		bind "kp_pgup" "buy hegrenade;"
+		bind "-" "buy deagle;"
+		bind "kp_plus" "buy molotov; buy incgrenade;"
+		bind "kp_enter" "buy defuser;"
+
+
+	// Volume
+
+		bind "uparrow" "incrementvar volume 0 1 0.1"
+		bind "downarrow" "incrementvar volume 0 1 -0.1"
+		bind "rightarrow" "volume 1"
+		bind "leftarrow" "volume 0"
+
+
+	// General
+
+		bind "1" "slot1"
+		bind "2" "slot2"
+		bind "3" "slot3"
+		bind "g" "drop"
+		bind "f" "use weapon_flashbang"
+		bind "4" "use weapon_hegrenade"
+		bind "v" "use weapon_smokegrenade"
+		bind "5" "molo"
+		alias "molo" "use weapon_incgrenade;use weapon_molotov"
+		bind "6" "use weapon_decoy"
+		bind "7" "slot7"
+		bind "8" "slot8"
+		bind "q" "+voicerecord"
+		bind "mwheeldown" "+jump"
+		bind "mwheelup" "+jump"
+		bind "space" "+jump"
+		bind "0" "use weapon_c4;drop"
+		alias "dropbomb" "use weapon_c4;drop"
+		bind "t" "+lookatweapon"
+		bindtoggle "capslock" "cl_righthand"
+
+
+	// Navigation
+
+		bind "home" "tr"
+		bind "ins" "ae"
+		bind "del" "r_cleardecals"
+		bindtoggle "f2" "cl_showpos"
+		bind "f8" "disconnect"
+		bind "f9" "demo_timescale 0"
+		//bind "f9" "host_timescale 0"
+		bind "f10" "demo_timescale 0.5"
+		//bind "f10" "host_timescale 0.5"
+		bind "f11" "demo_timescale 1"
+		//bind "f11" "host_timescale 1"
+		bind "f12" "demo_timescale 6"
+		//bind "f12" "host_timescale 6"
+
+
+
+////////////////////////// 5. Scripts //////////////////////////
+
+
+	// Netgraph on Scoreboard
+
+		alias 	"+scorenet" 	"+showscores; net_graph 1"
+		alias 	"-scorenet" 	"-showscores; net_graph 0"
+		bind 	"TAB" 			"+scorenet"
+
+
+	// Toggle Info Target ID 2017-03-16
+
+		alias 	"ToggleInfo" 	"info_on"
+		alias 	"info_on" 		"+cl_show_team_equipment; alias ToggleInfo info_off"
+		alias 	"info_off" 		"-cl_show_team_equipment; alias ToggleInfo info_on"
+		bind 	"," 			"ToggleInfo"
+
+
+	// Aligning smokes (You have to match "cl_crosshairsize" to your original crosshair size)
+
+		bind 	"9" 				"smokethrowtoggle"
+		alias 	"smokethrowtoggle" 	"smokethrowon"
+		alias 	"smokethrowon" 		"cl_crosshairsize 9999; alias smokethrowtoggle smokethrowoff"
+		alias 	"smokethrowoff" 	"cl_crosshairsize 2.2; alias smokethrowtoggle smokethrowon"
+
+
+	// Jumpthrow
+
+		alias 	"+jumpthrow" 	"+attack;+jump;-attack" 
+		alias 	"-jumpthrow" 	"-jump" 
+		bind 	"8" 			"+jumpthrow"	
+
+
+	// Clutch Mode
+		
+		bind 	"p" 			"clutchtoggle"
+		alias 	"clutchtoggle" 	"clutchon"
+		alias 	"clutchon" 		"voice_enable 0; ignoremsg; ignoremsg; say_team Clutch mode: ON (text & voice chat are disabled); alias clutchtoggle clutchoff"
+		alias 	"clutchoff" 	"voice_enable 1; ignoremsg; say_team Clutch mode: OFF (text & voice chat are enabled); alias clutchtoggle clutchon"
+
+		
+	//GAME INSTRUCTOR
+
+		bind 	"o" 		"gitoggle"
+		alias 	"gitoggle" 	"gion"
+		alias 	"gion" 		"gameinstructor_enable 1; echo Game Instructor ON; say_team Game Instructor ON; alias gitoggle gioff"
+		alias 	"gioff" 	"gameinstructor_enable 0; echo Game Instructor OFF; say_team Game Instructor OFF; alias gitoggle gion"
+
+
+	//AFK Script
+		
+		alias 	startafk 	"echo AFK script ON; +forward; +moveleft; +left;"
+		alias 	stopafk 	"echo AFK script OFF; -forward; -moveleft; -left;"
+
+
+	// Advanced Bindings (by BananaGaming)
+
+		//Part 1 
+		//Make sure that what is inside the quotes is what you're currently using.
+		//Note: This version lets you create your own values from scratch, KEY is your button, currentvalue is the command.
+			alias defA "bind q +voicerecord"
+			alias defB "bind shift +speed"
+			alias defC "bind 3 slot3"
+			alias defD "bind 1 slot1"
+			alias defE "bind r +reload"
+			alias defF "bind g drop"
+			alias defG "bind ctrl +duck"
+
+		//Part 2
+		//If you changed any letters/numbers in part 1 make sure you make the same changes here.
+		//Don't change the keyXX part.
+			alias keyA "bind q keyAA"
+			alias keyB "bind shift keyBB" 
+			alias keyC "bind 3 keyCC"
+			alias keyD "bind 1 keyDD"
+			alias keyE "bind r keyEE"
+			alias keyF "bind g keyFF"
+			alias keyG "bind ctrl keyGG"
+
+		//Part 3
+		//Here you can change what the bindings do when you hold down your key.
+		//This is the fun part. :)
+			alias keyAA "lastinv"
+			alias keyBB "noclip"
+			alias keyCC "slot5"
+			alias keyDD "volume 1"
+			alias keyEE "r_cleardecals"
+			alias keyFF "use weapon_c4;drop"
+			alias keyGG "ToggleInfo"
+
+		//Part 4 - Don't touch!
+			alias +keybinds "keyA; keyB; keyC; keyD; keyE; keyF; keyG"
+			alias -keybinds "defA; defB; defC; defD; defE; defF; defG"
+
+		//Part 5 - Bind whatever key you want, this will be your main key
+			bind alt +keybinds
+
+
+
+////////////////////////// 6. Aliases //////////////////////////
+
+	
+	alias 	"excuse" 	"say Choose your excuse: 1. Ping | 2. Tick Rate | 3. Hacker | 4. Smurfs | 5. Lucker | 6. Mouse | 7. FPS | 8. All of the above"
+	alias 	"gl" 		"say glhf"
+	alias 	"hf" 		"say hfhfhfhfhfhfhfhfhfhfhfhf"
+	alias 	"64" 		"say I would make a joke about 64 tick servers, BUT it wouldn't register"
+	alias 	"dab" 		"say *dab*"
+	alias 	"." 		"dab"
+	alias 	"ex" 		"excuse"
+	alias 	"c" 		"clear"
+	alias 	"cls" 		"clear"
+	alias 	"aq" 		"aquecer"
+	alias 	"v0" 		"volume 0"
+	alias 	"v0.1" 		"volume 0.1"
+	alias 	"v0.2" 		"volume 0.2"
+	alias 	"v0.3" 		"volume 0.3"
+	alias 	"v0.4" 		"volume 0.4"
+	alias 	"v0.5" 		"volume 0.5"
+	alias 	"v0.6" 		"volume 0.6"
+	alias 	"v0.7" 		"volume 0.7"
+	alias 	"v0.8" 		"volume 0.8"
+	alias 	"v0.9" 		"volume 0.9"
+	alias 	"v1" 		"volume 1"
+	alias 	"aquecer" 	"volume 0.04"
+	alias 	"q" 		"quit"
+	alias 	"d" 		"disconnect"
+	alias 	"g" 		"gods"
+	alias 	"autoexec" 	"exec autoexec"
+	alias 	"ae" 		"exec autoexec"
+	alias 	"1v1" 		"exec 1v1"
+	alias 	"deagle1v1"	"exec deagle1v1"
+	alias 	"d1v1" 		"deagle1v1"
+	alias 	"awp1v1" 	"exec awp1v1"
+	alias 	"botdm"		"exec botdm"
+	alias 	"dm" 		"exec botdm"
+	alias 	"awpdm" 	"exec awpdm"
+	alias 	"treino" 	"exec treino"
+	alias 	"tr" 		"exec treino"
+	alias 	"ch" 		"exec crosshairs"
+	alias 	"chs" 		"exec crosshairs"
+	alias 	"ml" 		"toggle fps_max"
+	alias 	"money"		"impulse 101"
+	alias 	"ammo"		"givecurrentammo"
+	alias 	"kevlar"	"give item_kevlar"
+	alias 	"k"			"give item_kevlar"
+	alias 	"awp"		"give weapon_awp"
+	alias 	"ak"		"give weapon_ak47"
+	alias 	"m4"		"give weapon_m4a1"
+	alias 	"m4a1"		"give weapon_m4a1_silencer"
+	alias 	"a1s"		"give weapon_m4a1_silencer"
+	alias 	"deagle"	"give weapon_deagle"
+	alias 	"famas"		"give weapon_famas"
+	alias 	"fiveseven"	"give weapon_fiveseven"
+	alias 	"galilar"	"give weapon_galilar"
+	alias 	"p2000"		"give weapon_hkp2000"
+	alias 	"mac10"		"give weapon_mac10"
+	alias 	"mag7"		"give weapon_mag7"
+	alias 	"mp7"		"give weapon_mp7"	
+	alias 	"mp9"		"give weapon_mp9"
+	alias 	"nova"		"give weapon_nova"
+	alias 	"negev"		"give weapon_negev"
+	alias 	"p90"		"give weapon_p90"
+	alias 	"p250"		"give weapon_p250"
+	alias 	"cz"		"give weapon_cz75a"
+	alias 	"r8"		"give weapon_revolver"
+	alias 	"scar"		"give weapon_scar20"
+	alias 	"sg"		"give weapon_sg556"
+	alias 	"scout"		"give weapon_ssg08"
+	alias 	"ssg"		"give weapon_ssg08"
+	alias 	"zeus"		"give weapon_taser"
+	alias 	"tec9"		"give weapon_tec9"
+	alias 	"ump"		"give weapon_ump45"
+
+	ch
+
+
+
+////////////////////////////////////////////////////////////////
+
+
+
+echo Config Loaded! //This just confirms that the config has ended successfully
+
+
+host_writeconfig
