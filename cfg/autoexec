@@ -6,7 +6,7 @@ echo ..@...@..@...@....@....@...@...@...@..@...@..@...@..@@@@...
 echo ..@...@..@...@....@....@@@@@...@...@..@@@@@..@...@..@......
 echo ...@@@....@@@.....@....@...@....@@@...@...@..@@@@...@@@@@..
 echo 
-echo v2.0
+echo v2.0.1
 echo 
 echo Created/Edited by: JotaJade
 echo 
@@ -330,7 +330,7 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		alias 	"clutchoff" 	"voice_enable 1; ignoremsg; say_team Clutch mode: OFF (text & voice chat are enabled); alias clutchtoggle clutchon"
 
 		
-	//GAME INSTRUCTOR
+	// Game Instructor
 
 		bind 	"o" 		"gitoggle"
 		alias 	"gitoggle" 	"gion"
@@ -338,7 +338,7 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		alias 	"gioff" 	"gameinstructor_enable 0; echo Game Instructor OFF; say_team Game Instructor OFF; alias gitoggle gion"
 
 
-	//AFK Script
+	// AFK Script
 		
 		alias 	startafk 	"echo AFK script ON; +forward; +moveleft; +left;"
 		alias 	stopafk 	"echo AFK script OFF; -forward; -moveleft; -left;"
@@ -392,44 +392,44 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 
 	
 	alias 	"excuse" 	"say Choose your excuse: 1. Ping | 2. Tick Rate | 3. Hacker | 4. Smurfs | 5. Lucker | 6. Mouse | 7. FPS | 8. All of the above"
-	alias 	"gl" 		"say glhf"
-	alias 	"hf" 		"say hfhfhfhfhfhfhfhfhfhfhfhf"
-	alias 	"64" 		"say I would make a joke about 64 tick servers, BUT it wouldn't register"
-	alias 	"dab" 		"say *dab*"
-	alias 	"." 		"dab"
-	alias 	"ex" 		"excuse"
-	alias 	"c" 		"clear"
-	alias 	"cls" 		"clear"
-	alias 	"aq" 		"aquecer"
-	alias 	"v0" 		"volume 0"
-	alias 	"v0.1" 		"volume 0.1"
-	alias 	"v0.2" 		"volume 0.2"
-	alias 	"v0.3" 		"volume 0.3"
-	alias 	"v0.4" 		"volume 0.4"
-	alias 	"v0.5" 		"volume 0.5"
-	alias 	"v0.6" 		"volume 0.6"
-	alias 	"v0.7" 		"volume 0.7"
-	alias 	"v0.8" 		"volume 0.8"
-	alias 	"v0.9" 		"volume 0.9"
-	alias 	"v1" 		"volume 1"
-	alias 	"aquecer" 	"volume 0.04"
-	alias 	"q" 		"quit"
-	alias 	"d" 		"disconnect"
-	alias 	"g" 		"gods"
-	alias 	"autoexec" 	"exec autoexec"
-	alias 	"ae" 		"exec autoexec"
-	alias 	"1v1" 		"exec 1v1"
+	alias 	"gl"		"say glhf"
+	alias 	"hf"		"say hfhfhfhfhfhfhfhfhfhfhfhf"
+	alias 	"64"		"say I would make a joke about 64 tick servers, BUT it wouldn't register"
+	alias 	"dab"		"say *dab*"
+	alias 	"."			"dab"
+	alias 	"ex"		"excuse"
+	alias 	"c"			"clear"
+	alias 	"cls"		"clear"
+	alias 	"aq"		"aquecer"
+	alias 	"v0"		"volume 0"
+	alias 	"v0.1"		"volume 0.1"
+	alias 	"v0.2"		"volume 0.2"
+	alias 	"v0.3"		"volume 0.3"
+	alias 	"v0.4"		"volume 0.4"
+	alias 	"v0.5"		"volume 0.5"
+	alias 	"v0.6"		"volume 0.6"
+	alias 	"v0.7"		"volume 0.7"
+	alias 	"v0.8"		"volume 0.8"
+	alias 	"v0.9"		"volume 0.9"
+	alias 	"v1"		"volume 1"
+	alias 	"aquecer"	"volume 0.04"
+	alias 	"q"			"quit"
+	alias 	"d"			"disconnect"
+	alias 	"g"			"gods"
+	alias 	"autoexec"	"exec autoexec"
+	alias 	"ae"		"exec autoexec"
+	alias 	"1v1"		"exec 1v1"
 	alias 	"deagle1v1"	"exec deagle1v1"
-	alias 	"d1v1" 		"deagle1v1"
-	alias 	"awp1v1" 	"exec awp1v1"
+	alias 	"d1v1"		"deagle1v1"
+	alias 	"awp1v1"	"exec awp1v1"
 	alias 	"botdm"		"exec botdm"
-	alias 	"dm" 		"exec botdm"
-	alias 	"awpdm" 	"exec awpdm"
-	alias 	"treino" 	"exec treino"
-	alias 	"tr" 		"exec treino"
-	alias 	"ch" 		"exec crosshairs"
-	alias 	"chs" 		"exec crosshairs"
-	alias 	"ml" 		"toggle fps_max"
+	alias 	"dm"		"exec botdm"
+	alias 	"awpdm"		"exec awpdm"
+	alias 	"treino"	"exec treino"
+	alias 	"tr"		"exec treino"
+	alias 	"ch"		"exec crosshairs"
+	alias 	"chs"		"exec crosshairs"
+	alias 	"ml"		"toggle fps_max"
 	alias 	"money"		"impulse 101"
 	alias 	"ammo"		"givecurrentammo"
 	alias 	"kevlar"	"give item_kevlar"
@@ -474,4 +474,3 @@ echo Config Loaded! //This just confirms that the config has ended successfully
 
 
 host_writeconfig
-
