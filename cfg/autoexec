@@ -6,7 +6,7 @@ echo ..@...@..@...@....@....@...@...@...@..@...@..@...@..@@@@...
 echo ..@...@..@...@....@....@@@@@...@...@..@@@@@..@...@..@......
 echo ...@@@....@@@.....@....@...@....@@@...@...@..@@@@...@@@@@..
 echo 
-echo v2.0.1
+echo v2.0.2
 echo 
 echo Created/Edited by: JotaJade
 echo 
@@ -152,8 +152,8 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		cl_teamid_overhead_always 			"1"				//Shows teammates' equipment overhead
 		cl_hud_bomb_under_radar             "1"				//Bomb icon shows under the radar if you're carrying it
 		hud_showtargetid 					"1" 			//Enables display of target names
-		cl_hud_playercount_showcount 		"1"				//Shows player avatars instead of numbers left
-		cl_showloadout 						"0"				//Always shows loadout ("0" to fade it out)
+		cl_hud_playercount_showcount 		"0"				//Shows player avatars instead of numbers left
+		cl_showloadout 						"1"				//Always shows loadout ("0" to fade it out)
 
 
 	// Radar
@@ -162,7 +162,7 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		cl_hud_radar_scale 					"1.2"			//Radar size
 		cl_radar_icon_scale_min 			"0.4" 			//Player size in radar (min="0.4", default="0.6", max="1")
 		cl_radar_always_centered  			"0"				//Centers radar ("0" to disable it)
-		cl_teammate_colors_show 			"0"				//Show teammates as separate colors without letter ("0" for letter)
+		cl_teammate_colors_show 			"2"				//Show teammates as separate colors without letter
 
 
 	// Viewmodel
@@ -212,7 +212,7 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		echo "|     P250    |  500 PISTOL |     HE      |           |"
 		echo "|-------------|-------------|-------------|  MOLOTOV  |"
 		echo "|      4      |      5      |      6      |           |"
-		echo "|     UMP     | CHEAP RIFLE | SCOPED RIFLE|           |"
+		echo "|  MP9/MAC10  | CHEAP RIFLE | SCOPED RIFLE|           |"
 		echo "|-------------|-------------|-------------|-----------|"
 		echo "|      1      |      2      |      3      |   ENTER   |"
 		echo "|     P90     |    RIFLE    |     AWP     |           |"
@@ -224,7 +224,7 @@ echo ".,:,:,:,:,:,:,:,:,,,,;,;,,,;,;,;;;;;;;;;;;;;;;:    ..... . .....   ..::;;;
 		bind "kp_ins" "buy vesthelm;"
 		bind "kp_del" "buy vest;"
 		bind "kp_end" "buy p90;"
-		bind "kp_leftarrow" "buy ump45;"
+		bind "kp_leftarrow" "buy mp9; buy mac10"
 		bind "kp_downarrow" "buy ak47; buy m4a1;"
 		bind "kp_5" "buy galilar; buy famas;"
 		bind "kp_pgdn" "buy awp;"
